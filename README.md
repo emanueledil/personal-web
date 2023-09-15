@@ -1,9 +1,12 @@
 # PersonalWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
-
+ng build --base-href /personal-web/
 # Template 
-https://startbootstrap.com/theme/personal#google_vignette
+
+# Deploy
+ng build --base-href /personal-web/
+ngh --dir=dist/personal-web
 
 ## Development server
 
